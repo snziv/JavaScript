@@ -1,0 +1,16 @@
+best document to refer 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+01Basics
+
+02Basics
+
+    object
+    objectSample1
+    objectSample2
+    equal
+
+01Advance
+    arrowFunctions
+    Coercion 
+    tryCatch
