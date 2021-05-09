@@ -1,6 +1,8 @@
 best document to refer 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+car and carpet
+
 01Basics
 
 02Basics
@@ -13,6 +15,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 01Advance
     arrowFunctions
     Coercion 
+    Sample Example : HTML/MyTODO/Sample
     tryCatch
     classes
     localStorage
+    Sample Example : HTML/MyTODOUsingStorage/Sample
